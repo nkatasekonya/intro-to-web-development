@@ -1,5 +1,5 @@
 # An Introduction to Web Development
-This content has been prepared to assist anyone who has an interest in web developemt, that is, anyone looking to learn the 3 core web technologies HTML, CSS and JavaScript. To benefit greatly from this content, these 3 technologies should be learned in a sequence starting with HTML, follwed by CSS, then finish up with JavaScript
+This content has been prepared to assist anyone who has an interest in web developemt, that is, anyone looking to learn the 3 core web technologies HTML, CSS and JavaScript. To benefit greatly from this content, these 3 technologies should be learned in a sequence starting with HTML, follwed by CSS, then finish up with JavaScript. Navigate to `HTML.md` above to get started
 
 ## Helful Resources
 - Whenever you are stuck, or need a better explanation, check out the [w3schools](https://www.w3schools.com/) website or the YouTube channel [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
