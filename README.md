@@ -5,12 +5,12 @@ This content has been prepared to assist anyone who has an interest in web devel
 - Whenever you are stuck, or need a better explanation, check out the [w3schools](https://www.w3schools.com/) website or the YouTube channel [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 
 ## On Completion
-- to sharpen your skills and practice your newly acquired web development skills, consider taking this course
+- To sharpen your skills and practice your newly acquired web development skills, consider taking this course
 [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/)
-- it is important that you not only watch the videos, but you also practice. After each video, try out the project by yourself
+- It is important that you not only watch the videos, but you also practice. After each video, try out the project by yourself
 
 ## Then What?
 - Now that you are skilled in HTML, CSS and JavaScript, you can start building passion projects or even build a neighbourhood small business a website
 - You can now also move on to the next stage, I recommend this course [PHP Tutorial for Beginners](https://www.youtube.com/watch?v=pWG7ajC_OVo&list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o&ab_channel=TheNetNinja) presented by The Net Ninja on YouTube
 - Upon completion of this course you will be able to work with the PHP programming language and MySQL database management system.
-- You will have the skills of a full stack developer web developer, meaning you can build out web applications from the frontend (HTML, CSS, JavaScript) to the backend (PHP, MySQL)
+- You will have the skills of a full stack web developer, meaning you can build out web applications from the frontend (HTML, CSS, JavaScript) to the backend (PHP, MySQL)
