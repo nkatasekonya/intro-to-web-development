@@ -48,7 +48,7 @@ h1 {
     - accounts for any border and padding in the values you specify for an element's width and height
     - so 100px will will include the content, border and padding
 
-## CCS Starter
+## CSS Starter
 ```css
 * {
     box-sizing: border-box;
